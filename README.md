@@ -1,2 +1,2 @@
-# Client_Server_Architechure_MYQSL
+# Client_Server_Architecture_MYQSL
 Client Server Achitechure with MySQL
